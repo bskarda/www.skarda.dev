@@ -9,6 +9,8 @@ class App extends Component {
         <header className="App-header">
           <p>
             It's a website
+      
+            So cool
           </p>
         </header>
       </div>
